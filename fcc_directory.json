@@ -1416,6 +1416,12 @@
     "email": "M@thewA.Collins@fcc.gov"
   },
   {
+    "name": "Collins Matthew",
+    "office": "WTB",
+    "phone": "(202) 418-2738",
+    "email": "M@thew.Collins@fcc.gov"
+  },
+  {
     "name": "Collins Melvin",
     "office": "MB",
     "phone": "(202) 418-1622",
@@ -3175,13 +3181,13 @@
   },
   {
     "name": "Hartigan Lisa",
-    "office": "PSHSB",
+    "office": "WTB",
     "phone": "(202) 418-0695",
     "email": "Lisa.Hartigan@fcc.gov"
   },
   {
     "name": "Hartigan Lisa",
-    "office": "WTB",
+    "office": "PSHSB",
     "phone": "(202) 418-0695",
     "email": "Lisa.Hartigan@fcc.gov"
   },
@@ -3346,6 +3352,12 @@
     "office": "OMD",
     "phone": "(202) 418-4531",
     "email": "Jack.Hilary@fcc.gov"
+  },
+  {
+    "name": "Hilby Anne",
+    "office": "EB",
+    "phone": "(202) 418-2057",
+    "email": "Anne.Hilby@fcc.gov"
   },
   {
     "name": "Hill Joseph",
@@ -5466,6 +5478,12 @@
     "email": "Tom.Mooring@fcc.gov"
   },
   {
+    "name": "Moradi Bahareh",
+    "office": "OGC",
+    "phone": "(202) 418-1701",
+    "email": "Bahareh.Moradi@fcc.gov"
+  },
+  {
     "name": "Moran Rusty",
     "office": "OMD",
     "phone": "(202) 418-1674",
@@ -6892,6 +6910,12 @@
     "office": "WTB",
     "phone": "(202) 418-1956",
     "email": "C@herine.Schroeder@fcc.gov"
+  },
+  {
+    "name": "Schroeder Karen",
+    "office": "CGB",
+    "phone": "(202) 418-0654",
+    "email": "Karen.Schroeder@fcc.gov"
   },
   {
     "name": "Schroeder Kurt",
