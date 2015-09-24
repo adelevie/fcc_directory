@@ -1411,15 +1411,15 @@
   },
   {
     "name": "Collins Matthew",
-    "office": "OGC",
-    "phone": "(202) 418-7141",
-    "email": "M@thewA.Collins@fcc.gov"
-  },
-  {
-    "name": "Collins Matthew",
     "office": "WTB",
     "phone": "(202) 418-2738",
     "email": "M@thew.Collins@fcc.gov"
+  },
+  {
+    "name": "Collins Matthew",
+    "office": "OGC",
+    "phone": "(202) 418-7141",
+    "email": "M@thewA.Collins@fcc.gov"
   },
   {
     "name": "Collins Melvin",
@@ -2292,6 +2292,12 @@
     "email": "Jamillia.Ferris@fcc.gov"
   },
   {
+    "name": "Ferrufino Anthony",
+    "office": "OMD",
+    "phone": "(202) 418-0024",
+    "email": "Anthony.Ferrufino@fcc.gov"
+  },
+  {
     "name": "Fiascunari Christian",
     "office": "OCBO",
     "phone": "(202) 418-7402",
@@ -2734,12 +2740,6 @@
     "office": "OIG",
     "phone": "(202) 418-7836",
     "email": "Lisa.Goins_Berntsen@fcc.gov"
-  },
-  {
-    "name": "Gold Chelsea",
-    "office": "OLA",
-    "phone": "(202) 418-1873",
-    "email": "Chelsea.Gold@fcc.gov"
   },
   {
     "name": "Gold Eugene N",
@@ -5408,13 +5408,13 @@
   {
     "name": "Mollison Shona",
     "office": "OIG",
-    "phone": "(202) 418-7348",
+    "phone": "(202) 418-2120",
     "email": "Shona.Mollison@fcc.gov"
   },
   {
     "name": "Mollison Shona",
     "office": "OIG",
-    "phone": "(202) 418-2120",
+    "phone": "(202) 418-7348",
     "email": "Shona.Mollison@fcc.gov"
   },
   {
@@ -6328,12 +6328,6 @@
     "office": "EB",
     "phone": "(202) 418-0569",
     "email": "Traci.Randolph@fcc.gov"
-  },
-  {
-    "name": "Ranganathan Vadivelan",
-    "office": "OMD",
-    "phone": "(202) 418-4552",
-    "email": "Vadivelan.Rangan@han@fcc.gov"
   },
   {
     "name": "Ray Linda C",
